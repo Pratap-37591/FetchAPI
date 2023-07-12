@@ -1,2 +1,2 @@
 # FetchAPI
-This repo contain fetch data and display in table using react.js
+This repo contains fetched data and displays it in the table using react.js
